@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamzi-SE
 - 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning MERN Stack Development
 - 📫 How to reach me : muhammadhamza007123@gmail.com
 
 <!---
