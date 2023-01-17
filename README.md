@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hamzi-SE
+- 👋 Hi, my name is Muhammad Hamza
 - 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m a MERN Stack Developer
+- 🌱 I’m a MERN Stack Developer with 2+ years of experience
 - 📫 How to reach me : hamzii.se@gmail.com
 - 🕸  My Website : https://hamzii.me
 
