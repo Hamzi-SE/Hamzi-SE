@@ -1,8 +1,14 @@
-- 👋 Hi, my name is Muhammad Hamza
-- 👀 I’m interested in Web Development and Software Development
-- 🌱 I’m a MERN Stack Developer with 2+ years of experience
-- 📫 How to reach me : hamzii.se@gmail.com
-- 🕸  My Website : https://hamzii.me
+- 👋 Hi, I'm Muhammad Hamza
+- 👀 I specialize in web and software development.
+- 🌱 I have over two years of experience with the MERN stack.
+- 📫 To reach me, email me at hamzii.se@gmail.com
+- 🕸 Check out my portfolio: https://hamzii.me
+- 🔥 Always open to new opportunities and challenges.
+
+
+
+
+
 
 <!---
 Hamzi-SE/Hamzi-SE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
