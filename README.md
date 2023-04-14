@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Hamzi-SE&icon=5&color=1)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [https://hamzii.me/](https://hamzii.me/)
+- 👨‍💻 My portfolio [https://hamzii.me/](https://hamzii.me/)
 
 - 📫 How to reach me **hamzii.se@gmail.com**
 
