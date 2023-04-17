@@ -12,7 +12,17 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Contact Details](https://skillicons.dev/icons?i=twitter,linkedin,instagram)](https://hamzii.me)
+<p align="left">
+  <a href="https://twitter.com/Hamzii_SE">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamzi-se/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/hamza._.se/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 <h3 align="left">My Skills:</h3>
 
