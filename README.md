@@ -6,7 +6,7 @@
 
 - 👨‍💻 My portfolio [https://hamzii-portfolio.vercel.app/](https://hamzii-portfolio.vercel.app/)
 
-- 📫 How to reach me **ihamza.se@gmail.com**
+- 📫 How to reach me **contact@ihamza.dev**
 
 - ⚡ Fun fact **I am a gamer also 😉**
 
