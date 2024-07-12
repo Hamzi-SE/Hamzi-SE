@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Hamzi-SE&icon=5&color=1)](https://visitcount.itsvg.in)
 
-- 👨‍💻 My portfolio [https://hamzii-portfolio.vercel.app/](https://hamzii-portfolio.vercel.app/)
+- 👨‍💻 My portfolio [https://ihamza.dev/](https://ihamza.dev/)
 
 - 📫 How to reach me **contact@ihamza.dev**
 
