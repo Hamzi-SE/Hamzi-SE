@@ -27,11 +27,3 @@
 <h3 align="left">My Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=appwrite,aws,babel,bash,bootstrap,cpp,css,docker,express,figma,firebase,gcp,git,graphql,heroku,html,ai,java,js,jest,linux,materialui,mongodb,mysql,netlify,nextjs,nginx,nodejs,nestjs,ps,postman,prisma,py,react,redux,redis,regex,sass,tailwind,threejs,ts,vercel,vite,webpack,wordpress)](#)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzi-se&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="hamzi-se" width="350" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzi-se&theme=nightowl&show_icons=true&locale=en" alt="hamzi-se" width="400" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzi-se&theme=nightowl" alt="hamzi-se" height="200" /></p>
-
-<p><img align="right" src="https://blogs.sap.com/wp-content/uploads/2022/06/1325-code-fork-outline.gif" alt="hamzi-se" height="200" /></p>
